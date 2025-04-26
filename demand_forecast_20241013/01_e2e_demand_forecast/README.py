@@ -16,6 +16,8 @@
 # MAGIC - 2. `00_config`を単独実行してカタログを作成しておいてください
 # MAGIC - 3. パイプライン（旧 Delta Live Tables）作成
 # MAGIC - 4. ワークフロー作成
+# MAGIC - 5. ワークフロー実行開始
+# MAGIC - 6. ダッシュボード作成
 # MAGIC
 # MAGIC # 手順詳細
 # MAGIC #### 1. クラスタの作成
@@ -112,5 +114,10 @@
 # MAGIC <img src='https://github.com/komae5519pv/dbx_learning/blob/main/demand_forecast_20241013/01_e2e_demand_forecast/_image_for_notebook/workflow_setting.png?raw=true' width='90%'/>
 # MAGIC
 # MAGIC #### 5. ワークフロー実行開始
-# MAGIC - 3まででワークフロー作成完了です。画面右上「今すぐ実行」をクリックしてください
+# MAGIC - 4まででワークフロー作成完了です。画面右上「今すぐ実行」をクリックしてください
 # MAGIC <img src='https://github.com/komae5519pv/dbx_learning/blob/main/demand_forecast_20241013/01_e2e_demand_forecast/_image_for_notebook/workflow_run.png?raw=true' width='90%'/>
+# MAGIC
+# MAGIC #### 6. ダッシュボード作成
+# MAGIC - [11_Dashboard]($11_Dashboard)に従い、ダッシュボードを完成させrてください 
+# MAGIC   - _dashboard/Vending Machine Analysis_JP
+# MAGIC   - _dashboard/Vending Machine Analysis_EN
