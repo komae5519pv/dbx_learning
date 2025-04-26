@@ -9,7 +9,7 @@
 
 # MAGIC %md
 # MAGIC
-# MAGIC <img src='https://github.com/komae5519pv/komae_dbdemos/blob/main/fine_grain_forecast_20241013/Customized_e2e_demand_forecasting/_image_for_notebook/batch_scoring.png?raw=true' width='1200'/>
+# MAGIC <img src='https://github.com/komae5519pv/dbx_learning/blob/main/demand_forecast_20241013/01_e2e_demand_forecast/_image_for_notebook/batch_scoring.png?raw=true' width='90%'/>
 
 # COMMAND ----------
 
